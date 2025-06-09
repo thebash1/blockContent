@@ -1,0 +1,17 @@
+{
+	"manifest_version": 3,
+	"name": "block content",
+	"version": "1.0",
+	"description": "Block photos or videos that not your interesed",
+	"icons": 
+	{
+		"32": "C:\\Users\\Usuario\\Desktop\\git-learn\\blockContent\\src\\assets\\banUser32.png",
+		"64": "C:\\Users\\Usuario\\Desktop\\git-learn\\blockContent\\src\\assets\\banUser64.png"	
+	},
+	"content_scripts": [
+		{
+			"matches": [],
+			"js": []
+		}
+	]
+}
